@@ -1,2 +1,2 @@
-Custom Entities For Doors Entity Spawner
+Custom Entities For Doors Entity Spawner,
 Pretty Cool
